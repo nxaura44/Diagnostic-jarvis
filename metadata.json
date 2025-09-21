@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MediBot: AI Diagnostic Assistant",
+  "description": "A web-based AI assistant for healthcare diagnostic centers, providing information on SOPs, lab tests, and patient safety using Google's Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
